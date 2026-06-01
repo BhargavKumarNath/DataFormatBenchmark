@@ -8,8 +8,8 @@ You can get the interactive dashboard running locally with just a few commands.
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/pandas-vs-polars-benchmark.git
-cd pandas-vs-polars-benchmark
+git clone https://github.com/BhargavKumarNath/DataFormatBenchmark.git
+cd DataFormatBenchmark
 
 # Install frontend dependencies and start the React dashboard
 npm install
