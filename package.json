@@ -1,0 +1,10 @@
+{
+  "name": "benchmark",
+  "version": "1.0.0",
+  "description": "50GB Challenge - Pandas vs Polars",
+  "scripts": {
+    "install": "cd viz-app && npm install",
+    "dev": "cd viz-app && npm run dev",
+    "build": "cd viz-app && npm run build"
+  }
+}

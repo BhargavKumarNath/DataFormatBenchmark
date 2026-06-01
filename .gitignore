@@ -1,0 +1,15 @@
+# Byte-level dependencies
+data/
+*.parquet
+*.csv
+.venv/
+__pycache__/
+*.pyc
+
+# Node
+viz-app/node_modules/
+viz-app/dist/
+
+# OS
+.DS_Store
+Thumbs.db
